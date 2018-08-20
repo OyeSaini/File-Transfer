@@ -1,4 +1,4 @@
-# file-transfer
+# File Transfer Application
 Simple file transfer application using Client Server Architecture.
 
 The server process and the client process runs on two different machines and the communication between the two processes is achieved using Sockets.
